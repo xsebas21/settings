@@ -1,3 +1,4 @@
 {
-  "enabled": true
+  "enabled": true,
+  "delay": 2
 }
